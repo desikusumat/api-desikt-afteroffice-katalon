@@ -62,6 +62,6 @@ RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
 
-assertThat(response.getResponseText()).contains('morpheus')</verificationScript>
+assertThat(response.getResponseText()).contains('zion resident')</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
