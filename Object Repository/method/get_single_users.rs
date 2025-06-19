@@ -55,6 +55,6 @@ ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
 
 def variables = request.getVariables()
-def variable = variables.get('Janet')</verificationScript>
+def variable = variables.get('Weaver')</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
